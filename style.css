@@ -577,7 +577,7 @@ input[type='file'] {
         
         @media (max-width: 768px) {
             .header-content h1 {
-                font-size: 2.2rem;
+                font-size: 2rem;
             }
             
             .header-content p {
@@ -608,4 +608,5 @@ input[type='file'] {
                 max-width: 300px;
                 justify-content: center;
             }
+
         }
